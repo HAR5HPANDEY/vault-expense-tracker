@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vault 💎
+# VAULT
 
 Modern Offline-First Expense Tracker built with Flutter
 
