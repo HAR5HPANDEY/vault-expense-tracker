@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/.last_build_id
+.gradle/
+.idea/
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
