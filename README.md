@@ -70,7 +70,7 @@ The goal of Vault is to create a modern personal finance experience that feels:
 ## 👨‍💻 Developer
 
 Harsh Pandey  
-Flutter App Developer • SaaS & Product Builder • Finance Enthusiast
+App Developer • SaaS & Product Builder • Finance Enthusiast
 
 ---
 
