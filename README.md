@@ -77,3 +77,23 @@ Flutter App Developer • SaaS & Product Builder • Finance Enthusiast
 ## ⭐ Support
 
 If you like the project, consider starring the repository.
+
+---
+
+## 📸 Screenshots
+
+### Home Screen
+![](screenshots/HOME.png)
+
+### Analysis Screen
+![](screenshots/ANALYSIS.png)
+
+### Budget Screen
+![](screenshots/BUDGET.png)
+
+### Records Screen
+![](screenshots/RECORDS.png)
+
+
+
+
