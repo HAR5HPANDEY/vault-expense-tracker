@@ -89,7 +89,7 @@ If you like the project, consider starring the repository.
 ![](screenshots/ANALYSIS.png)
 
 ### Budget Screen
-![](screenshots/BUDGET.jpng)
+![](screenshots/BUDGET.jpeg)
 
 ### Records Screen
 ![](screenshots/RECORDS.png)
